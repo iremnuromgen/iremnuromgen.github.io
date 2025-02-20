@@ -83715,7 +83715,7 @@ k.lB(B.hw)}else{i=n.ar(h)
 i.toString
 i.f.AH(B.Nz)}case 1:return A.M(q,r)}})
 return A.N($async$wX,r)},
-J(a){var s=this,r=null,q=A.J(B.c.L(25.5),255,255,255),p=A.dN(20),o=t.D
+J(a){var s=this,r=null,q=A.J(B.c.L(25.5),155,48,48),p=A.dN(20),o=t.D
 return A.iW(A.fb(A.b([B.y0,B.DN,B.Nm,B.SF,new A.cF(B.D8,A.cL(r,new A.cF(B.iJ,A.mm(A.b([A.cL(r,A.fb(A.b([s.RD("E-MAIL","iremnuromgen@gmail.com"),s.RD("LOCATION","Istanbul / T\xfcrkiye")],o),B.bg,B.c2,B.S),B.q,r,r,r,r,r,r,r,r,r,200),B.y_,A.cL(r,r,B.q,B.l,r,r,r,r,r,r,r,r,2),B.y_,A.I1(A.fb(A.b([new A.nL("Name",1,s.d,r),new A.nL("E-mail",1,s.e,r),new A.nL("Subject",1,s.f,r),new A.nL("Message...",4,s.r,r),B.hu,A.aoX(B.SE,s.gacX(),A.aoY(r,r,B.i6,r,r,r,r,r,r,B.bH,r,r,B.m1,r,new A.cG(A.dN(12),B.hZ),r,r,r,r))],o),B.ae,B.c2,B.S),1)],o),B.a8,B.S),r),B.q,r,r,new A.d7(q,r,r,p,r,r,B.at),r,450,r,r,r,r,900),r)],o),B.ae,B.a8,B.S),r,r)},
 RD(a,b){var s=null
 return new A.cF(B.m0,A.fb(A.b([A.dw(a,s,s,s,A.anS().$1$color(B.j),s,s),A.dw(b,s,s,s,A.anS().$1$color(B.J),s,s)],t.D),B.bg,B.a8,B.S),s)}}
